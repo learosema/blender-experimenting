@@ -1,0 +1,13 @@
+Blender Animation Fundamentals Rigs
+
+Blender Animation Fundamentals is a Blender Cloud training. These files 
+are licensed under the Creative Commons Attribution-ShareAlike 4.0 License
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Attribution to:
+Blender Cloud | cloud.blender.org
+
+---
+
+Join https://cloud.blender.org today, get 10 years of film production 
+history, tutorials, and help us making more!
